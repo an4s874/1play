@@ -3,4 +3,4 @@ prefix=1
 game=by 5665 1play
 stayinchannel=true
 songinstatus=false
-token="NTg5Mjg1Mzg0MTQwMjI2NTYw.XQRddA.uey2UI_QBV8litlqDNbPD6x5D1Y"
+token=NTg5Mjg1Mzg0MTQwMjI2NTYw.XQRiTg.74ZgBZqJggnqbtygELHQ9RUdV2g
